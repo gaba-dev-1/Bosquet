@@ -1,0 +1,13 @@
+{
+  "name": "jardinieres",
+  "version": "1.0.0",
+  "description": "Économie Rationnelle par Réalité Augmentée - Le Retour des Jardiniers",
+  "keywords": ["économie", "jardiniers", "réalité-augmentée", "rationnel", "écologique"],
+  "author": "Gardien de l'Économie Jardinière <gardien@economie-jardiniere.org>",
+  "license": "LEJ-1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jardinier-cosmique/jardinieres"
+  },
+  "homepage": "https://economie-jardiniere.org"
+}

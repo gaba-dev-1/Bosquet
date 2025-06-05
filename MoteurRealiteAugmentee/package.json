@@ -1,0 +1,14 @@
+{
+  "name": "moteur-realite-augmentee",
+  "version": "0.1.0",
+  "description": "Moteur de Réalité Augmentée pour l'Économie Jardinière",
+  "dependencies": {
+    "react": "^18.2.0",
+    "three": "^0.160.0",
+    "@react-three/fiber": "^8.15.0",
+    "@react-three/drei": "^9.95.0",
+    "typescript": "^5.0.0"
+  },
+  "author": "Gardien de l'Économie Jardinière",
+  "license": "LEJ-1.0"
+}

@@ -1,0 +1,45 @@
+# Connaissances économiques secrètes
+node_modules/
+venv/
+.env*
+.vscode/
+.DS_Store
+dist/
+build/
+target/
+
+# Données d'économie jardinière
+garden_economy_data/
+rational_market_logs/
+ar_overlay_cache/
+gardener_contribution_tracking/
+ecosystem_value_calculations/
+
+# Systèmes de réalité augmentée
+ar_models/
+3d_garden_overlays/
+augmented_ecology_data/
+virtual_economy_patterns/
+holographic_garden_maps/
+
+# Algorithmes économiques avancés
+economic_ai_models/
+value_calculation_engines/
+contribution_tracking_systems/
+market_rationality_protocols/
+*.h5
+*.pkl
+*.pt
+*.onnx
+
+# Archives des anciens jardiniers
+babylon_hanging_gardens/
+versailles_garden_economics/
+eden_restoration_protocols/
+permaculture_wisdom_base/
+
+# Fichiers temporaires
+*.log
+*.tmp
+.cache/
+__pycache__/
