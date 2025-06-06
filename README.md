@@ -581,4 +581,7 @@
 
 ![Co-création](https://img.shields.io/badge/CO--CRÉATION-10b981?style=for-the-badge&logo=users&logoColor=white)
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC3268181/
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6436976/
+
 </div>
