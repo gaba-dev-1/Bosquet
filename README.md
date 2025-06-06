@@ -124,96 +124,6 @@
 
 <div align="center">
 
-# 🌊 Tissons les réseaux symbiotiques 🕸️
-
-[![Neural Weave](https://img.shields.io/badge/Neural-Weave-0f172a?style=for-the-badge&logo=brain&logoColor=white)](https://github.com/symbiotic-web/neural-weave)
-
-## 🧬 Cultiver l'intelligence collective 🌌
-
-![Connexion](https://img.shields.io/badge/CONNEXION-10b981?style=for-the-badge&logo=link&logoColor=white)
-![Émergence](https://img.shields.io/badge/ÉMERGENCE-f59e0b?style=for-the-badge&logo=sparkles&logoColor=white)
-![Résonance](https://img.shields.io/badge/RÉSONANCE-8b5cf6?style=for-the-badge&logo=radio&logoColor=white)
-
----
-
-### 🕷️ Partie 1 : La toile vivante
-
-[![Web Matrix](https://img.shields.io/badge/Web-Matrix-059669?style=for-the-badge&logo=spider&logoColor=white)](https://github.com/symbiotic-web/matrix)
-
-#### Chaque nœud pulse avec sa propre fréquence.
-
-### Dans un réseau vivant, les connexions ne sont pas des câbles mais des synapses. Chaque point de contact transmet plus que des données : il partage de l'essence.
-
-#### Exemple : quand tu écris un message, tu transmets ton état d'âme avec tes mots.
-
-### 🌐 La force du réseau naît de l'authenticité de chaque nœud, pas de leur uniformité.
-
-![Authenticité](https://img.shields.io/badge/AUTHENTICITÉ-34d399?style=flat-square)
-![Fréquence](https://img.shields.io/badge/FRÉQUENCE-6ee7b7?style=flat-square)
-
----
-
-### 🏗️ Partie 2 : L'architecture invisible
-
-[![Node Core](https://img.shields.io/badge/Node-Core-b91c1c?style=for-the-badge&logo=cpu&logoColor=white)](https://github.com/symbiotic-web/node-core)
-
-#### Les structures cachées façonnent ce qu'on voit.
-
-### Une plateforme peut être un pont qui relie ou un filtre qui trie. Les algorithmes sont des architectes invisibles qui dessinent nos chemins de pensée.
-
-#### 🏛️ Révélation simple :
-
-### **Observe qui parle fort et qui murmure. Regarde qui apparaît et qui disparaît.**
-
-![Transparence](https://img.shields.io/badge/TRANSPARENCE-2563eb?style=flat-square)
-![Filtrage](https://img.shields.io/badge/FILTRAGE-dc2626?style=flat-square)
-
----
-
-### 🌀 Partie 3 : Les flux temporels
-
-[![Chronos Flow](https://img.shields.io/badge/Chronos-Flow-7c3aed?style=for-the-badge&logo=clock&logoColor=white)](https://github.com/symbiotic-web/chronos)
-
-### 💫 **L'instant présent**
-#### Les conversations qui naissent maintenant
-
-### 🌊 **Les vagues du passé**
-#### Les échos qui résonnent encore
-
-### 🔮 **Les germes du futur**
-#### Les idées qui cherchent à émerger
-
-![Présent](https://img.shields.io/badge/⚡\_Instant-FF6B6B?style=for-the-badge&logo=zap)
-
-### 🌍 L'intelligence collective émerge quand on tisse ensemble tous les temps qui coexistent.
-
-[![Emergence](https://img.shields.io/badge/🌱\_Emergence-4ECDC4?style=for-the-badge)](https://github.com/symbiotic-web/emergence)
-[![Resonance](https://img.shields.io/badge/🎵\_Resonance-45B7D1?style=for-the-badge)](https://github.com/symbiotic-web/resonance)
-[![Symbiosis](https://img.shields.io/badge/🤝\_Symbiosis-96CEB4?style=for-the-badge)](https://github.com/symbiotic-web/symbiosis)
-
-### **Le web symbiotique grandit quand chaque voix trouve sa place dans la symphonie collective.**
-
-![Instantané](https://img.shields.io/badge/INSTANTANÉ-fef3c7?style=for-the-badge)
-![Rémanent](https://img.shields.io/badge/RÉMANENT-ddd6fe?style=for-the-badge)
-![Émergent](https://img.shields.io/badge/ÉMERGENT-ecfdf5?style=for-the-badge)
-
----
-
-### 🌈 Épilogue : L'art de la coexistence
-
-#### Dans ce nouveau web, nous ne sommes plus des utilisateurs mais des co-créateurs.
-
-### Chaque clic dessine le monde de demain. Chaque partage tisse un fil dans la tapisserie collective. Chaque silence aussi a sa beauté.
-
-![Co-création](https://img.shields.io/badge/CO--CRÉATION-10b981?style=for-the-badge&logo=users&logoColor=white)
-
-</div>
-
----
-</br>
-
-<div align="center">
-
 # ∞ Naviguons le JeremyBearimy numérique 🌀
 
 [![Temporal Loop](https://img.shields.io/badge/Temporal-Loop-1e1b4b?style=for-the-badge&logo=infinity&logoColor=white)](https://github.com/jeremy-web/temporal-loop)
@@ -305,3 +215,93 @@
 ![Bearimy](https://img.shields.io/badge/BEARIMY\_WEB-ec4899?style=for-the-badge&logo=globe&logoColor=white)
 
 ### **∞ Et la boucle recommence... ∞**
+
+---
+</br>
+
+<div align="center">
+
+# 🌊 Tissons les réseaux symbiotiques 🕸️
+
+[![Neural Weave](https://img.shields.io/badge/Neural-Weave-0f172a?style=for-the-badge&logo=brain&logoColor=white)](https://github.com/symbiotic-web/neural-weave)
+
+## 🧬 Cultiver l'intelligence collective 🌌
+
+![Connexion](https://img.shields.io/badge/CONNEXION-10b981?style=for-the-badge&logo=link&logoColor=white)
+![Émergence](https://img.shields.io/badge/ÉMERGENCE-f59e0b?style=for-the-badge&logo=sparkles&logoColor=white)
+![Résonance](https://img.shields.io/badge/RÉSONANCE-8b5cf6?style=for-the-badge&logo=radio&logoColor=white)
+
+---
+
+### 🕷️ Partie 1 : La toile vivante
+
+[![Web Matrix](https://img.shields.io/badge/Web-Matrix-059669?style=for-the-badge&logo=spider&logoColor=white)](https://github.com/symbiotic-web/matrix)
+
+#### Chaque nœud pulse avec sa propre fréquence.
+
+### Dans un réseau vivant, les connexions ne sont pas des câbles mais des synapses. Chaque point de contact transmet plus que des données : il partage de l'essence.
+
+#### Exemple : quand tu écris un message, tu transmets ton état d'âme avec tes mots.
+
+### 🌐 La force du réseau naît de l'authenticité de chaque nœud, pas de leur uniformité.
+
+![Authenticité](https://img.shields.io/badge/AUTHENTICITÉ-34d399?style=flat-square)
+![Fréquence](https://img.shields.io/badge/FRÉQUENCE-6ee7b7?style=flat-square)
+
+---
+
+### 🏗️ Partie 2 : L'architecture invisible
+
+[![Node Core](https://img.shields.io/badge/Node-Core-b91c1c?style=for-the-badge&logo=cpu&logoColor=white)](https://github.com/symbiotic-web/node-core)
+
+#### Les structures cachées façonnent ce qu'on voit.
+
+### Une plateforme peut être un pont qui relie ou un filtre qui trie. Les algorithmes sont des architectes invisibles qui dessinent nos chemins de pensée.
+
+#### 🏛️ Révélation simple :
+
+### **Observe qui parle fort et qui murmure. Regarde qui apparaît et qui disparaît.**
+
+![Transparence](https://img.shields.io/badge/TRANSPARENCE-2563eb?style=flat-square)
+![Filtrage](https://img.shields.io/badge/FILTRAGE-dc2626?style=flat-square)
+
+---
+
+### 🌀 Partie 3 : Les flux temporels
+
+[![Chronos Flow](https://img.shields.io/badge/Chronos-Flow-7c3aed?style=for-the-badge&logo=clock&logoColor=white)](https://github.com/symbiotic-web/chronos)
+
+### 💫 **L'instant présent**
+#### Les conversations qui naissent maintenant
+
+### 🌊 **Les vagues du passé**
+#### Les échos qui résonnent encore
+
+### 🔮 **Les germes du futur**
+#### Les idées qui cherchent à émerger
+
+![Présent](https://img.shields.io/badge/⚡\_Instant-FF6B6B?style=for-the-badge&logo=zap)
+
+### 🌍 L'intelligence collective émerge quand on tisse ensemble tous les temps qui coexistent.
+
+[![Emergence](https://img.shields.io/badge/🌱\_Emergence-4ECDC4?style=for-the-badge)](https://github.com/symbiotic-web/emergence)
+[![Resonance](https://img.shields.io/badge/🎵\_Resonance-45B7D1?style=for-the-badge)](https://github.com/symbiotic-web/resonance)
+[![Symbiosis](https://img.shields.io/badge/🤝\_Symbiosis-96CEB4?style=for-the-badge)](https://github.com/symbiotic-web/symbiosis)
+
+### **Le web symbiotique grandit quand chaque voix trouve sa place dans la symphonie collective.**
+
+![Instantané](https://img.shields.io/badge/INSTANTANÉ-fef3c7?style=for-the-badge)
+![Rémanent](https://img.shields.io/badge/RÉMANENT-ddd6fe?style=for-the-badge)
+![Émergent](https://img.shields.io/badge/ÉMERGENT-ecfdf5?style=for-the-badge)
+
+---
+
+### 🌈 Épilogue : L'art de la coexistence
+
+#### Dans ce nouveau web, nous ne sommes plus des utilisateurs mais des co-créateurs.
+
+### Chaque clic dessine le monde de demain. Chaque partage tisse un fil dans la tapisserie collective. Chaque silence aussi a sa beauté.
+
+![Co-création](https://img.shields.io/badge/CO--CRÉATION-10b981?style=for-the-badge&logo=users&logoColor=white)
+
+</div>
