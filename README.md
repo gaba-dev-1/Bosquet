@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🌟 COLLEGROVE 🎯
+# 🌟 MAP 🎯
 [![Interface Governance](https://img.shields.io/badge/Interface-Gouvernance-1e3a8a?style=for-the-badge&logo=layers&logoColor=white)](https://github.com/metasystemacy/governance)
 
 ## 🎨 Gouverner les interfaces 🧠
