@@ -5,7 +5,7 @@
 # 🌟 METASYSTEMACIE 🎯
 [![Interface Governance](https://img.shields.io/badge/Interface-Gouvernance-1e3a8a?style=for-the-badge&logo=layers&logoColor=white)](https://github.com/metasystemacy/governance)
 
-## 🎨 Gouverner les interfaces pour qu'elles ne fassent pas chier 🧠
+## 🎨 Gouverner les interfaces 🧠
 
 ![Surface](https://img.shields.io/badge/SURFACE-2196f3?style=for-the-badge&logo=eye&logoColor=white)
 ![Bridge](https://img.shields.io/badge/BRIDGE-4caf50?style=for-the-badge&logo=bridge&logoColor=white)
